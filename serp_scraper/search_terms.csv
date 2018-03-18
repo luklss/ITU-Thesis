@@ -1,0 +1,32 @@
+search_term, search_engine, n_images, label
+protest violent, google, 300, 1.0
+riots, bing, 100, 1.0
+riots, google, 150, 1.0
+street violence, google, 400, 1.0
+peaceful protest, google, 60, 0.0
+peaceful protest, bing, 100, 0.0
+peaceful demonstration, google, 380, 0.0
+police fighting protesters, google, 110, 1.0
+peace protest, google, 265, 0.0
+peace protest, bing, 265, 0.0
+street riots, google, 60, 1.0
+protest violent USA, google, 500, 1.0
+protest violent germany, google, 375, 1.0
+police violence china, google, 110, 1.0 
+protest love, google, 445, 0.0
+protest harmonious, google, 260, 0.0
+peaceful protest europe, google, 460, 0.0
+peaceful protest USA, google, 50, 0.0
+violent riot europe, google, 715, 1.0
+violent riot europe, bing, 100, 1.0
+protesto pacifico, google, 145, 0.0
+protest conciliation, google, 245, 0.0
+respect protest, google, 170, 0.0
+africa peaceful protest, google, 160, 0.0
+loving protest, google, 85, 0.0
+loves protest, google, 220, 0.0
+loves protest, bing, 48, 0.0
+england peaceful protest, google, 190, 0.0
+violent protest venezuela, google, 220, 1.0
+violent protest venezuela, bing, 138, 1.0
+violent riots, google, 510, 1.0
