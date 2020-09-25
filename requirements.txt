@@ -79,5 +79,5 @@ wcwidth==0.1.7
 webencodings==0.5.1
 widgetsnbextension==3.1.4
 yarl==1.1.1
-tensorflow==1.6.0
+tensorflow==1.15.4
 imageio==2.2.0
